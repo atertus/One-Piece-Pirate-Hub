@@ -62,4 +62,17 @@ The project is built using React, Supabase, and modern responsive design techniq
 - Users can modify Title, Content, and Image URL.
 - Edits do not delete existing comments or upvotes.
 
-Alexander Tertus z23630485
+# Post Showcase
+
+![postfunction](https://github.com/user-attachments/assets/be5094ce-1544-4798-95e4-08516a9cd2ce)
+
+# Database Showcase
+![supabasefuncion](https://github.com/user-attachments/assets/c23ae2a2-4b82-4be2-b168-30f2f1156fd0)
+
+# Cloud Server Showcase
+![cloudserverPirateHUb](https://github.com/user-attachments/assets/26e82a54-5773-444b-83ed-9d83a8871526)
+
+
+### Cloud Deployment Url
+https://onepiecepiratehub.netlify.app/
+
